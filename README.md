@@ -1,0 +1,1 @@
+This repository contains the source code accompanying our paper "Rethinking the Effects of Working Memory Training on Executive Functions in Schizophrenia: A Machine Learning Approach," published in the International Journal of Clinical and Health Psychology.
