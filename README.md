@@ -24,6 +24,7 @@ This repository contains the source code for our paper "Rethinking the Effects o
 
 ## Citation
 
-Zhang, T., Su, M., Huo, X., & Zhao, X. (2025). Rethinking the Effects of Working Memory Training on Executive Functions in Schizophrenia: A Machine Learning Approach (SSRN Scholarly Paper No. 5277353). *Social Science Research Network*. https://doi.org/10.2139/ssrn.5277353
+
+Zhang, T., Su, M., Huo, X., & Zhao, X. (2025). Rethinking the effects of working memory training on executive functions in schizophrenia: A machine learning approach. International Journal of Clinical and Health Psychology, 25(4), 100628. https://doi.org/10.1016/j.ijchp.2025.100628
 
 **Note:** This manuscript is currently under review at *International Journal of Clinical and Health Psychology*.
